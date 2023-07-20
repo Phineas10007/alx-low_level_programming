@@ -2,7 +2,7 @@
 
 /**
  * _isdigit - checks for digit
- * 
+ * betty
  *
  * Return: 1 if digit, 0 if not digit
  */
